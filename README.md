@@ -15,18 +15,18 @@
 如果你的主邮箱是：
 
 ```
-me@fengmail.cn
+me@fengemail.com
 ```
 
 你可以任意使用这些邮箱地址接收邮件：
 
 ```
-shopping.me@fengmail.cn  
-github123.me@fengmail.cn  
-temp456.me@fengmail.cn  
+shopping.me@fengemail.com  
+github123.me@fengemail.com
+temp456.me@fengemail.com  
 ```
 
-只要遵循 **<前缀>[.me@fengmail.cn](mailto:.me@fengmail.cn)** 的结构，所有邮件都会自动汇总到主邮箱中。
+只要遵循 **<前缀>[.me@fengemail.com](mailto:.me@fengemail.com)** 的结构，所有邮件都会自动汇总到主邮箱中。
 
 这意味着：
 
@@ -46,7 +46,7 @@ temp456.me@fengmail.cn
 该地址形如：
 
 ```
-3hd2fc9s.me@fengmail.cn
+3hd2fc9s.me@fengemail.com
 ```
 
 每个地址都是一次性的，但完全支持来自任何外部邮箱发送邮件。
